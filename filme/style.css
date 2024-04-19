@@ -1,0 +1,27 @@
+*{
+}
+header{
+    background-color: #b4b4b4;
+    display: flex;
+    justify-content: space-between;
+}
+header ul {
+    
+    display: flex;
+    gap: 30px;
+}
+header li{
+    list-style: none;
+}
+section{ 
+    background-color: rgb(92, 6, 138);
+    padding: 20px 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.direito img{
+    width: 40vw;
+    height: 60vh;
+    object-fit: cover;
+}
